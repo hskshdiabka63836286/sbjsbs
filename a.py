@@ -16,7 +16,7 @@ def b():
 
 
 @app.route('/bb')
-def b():
+def c():
   system('apt install kazam')
   return 'ok'
 
